@@ -57,10 +57,16 @@ Na końcu wyświetlany jest całkowity koszt wszystkich tras.
 Przykładowy wynik:
 
 Trasa dla pojazdu 4: Katowice, Polska -> Gdańsk, Polska -> Warszawa, Polska -> Katowice, Polska
+
 Koszt trasy: 1265.75 zł
+
 Przejechana odległość: 1161.55 km
+
 Czas w trasie: 11 godz 59 min
+
 Paliwo zużyte: 139.39 l
+
 Koszt paliwa: 906.01 zł
+
 Koszt kierowcy: 359.74 zł
 
